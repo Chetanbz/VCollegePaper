@@ -1,0 +1,1669 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.4)  3 OCT 2020 12:55
+entering extended mode
+**./Paper.tex
+(Paper.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (interact.cls
+Document Class: interact 2017/07/31 v1.05 Interact LaTeX document class
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen135
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks16
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks17
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks25
+)
+(booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count187
+\@cmidlb=\count188
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count189
+\@lastruleclass=\count190
+\@thisrulewidth=\dimen156
+) (epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+\epsfxsize=\dimen159
+\epsfysize=\dimen160
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count191
+\rotFPtop=\skip55
+\rotFPbot=\skip56
+\rot@float@box=\box47
+\rot@mess@toks=\toks27
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
+\Gm@dimlist=\toks28
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+\c@mv@upright=\count195
+\c@mv@boldupright=\count196
+LaTeX Font Info:    Overwriting symbol font `letters' in version `upright'
+(Font)                  OML/cmm/m/it --> OML/eur/m/n on input line 163.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldupright'
+(Font)                  OML/cmm/m/it --> OML/eur/b/n on input line 164.
+\LabelSep=\dimen169
+\TopSep=\skip57
+\figheight=\dimen170
+\figwidth=\dimen171
+\tabledim=\dimen172
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.s
+ty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen173
+\captionmargin@=\dimen174
+\captionwidth=\dimen175
+\caption@tempdima=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \FigName \@captype
+ \vskip \abovecaptionskip \setbox \@tempboxa \hbox {\figcaptionfont {\fignumfon
+t #1}\hskip 4pt#2}\ifdim \wd \@tempboxa >\hsize {\figcaptionfont \noindent {\fi
+gnumfont #1}\hskip 7pt\ignorespaces #2\par }\else \global \@minipagefalse \hb@x
+t@ \hsize {\hfil \box \@tempboxa \hfil }\fi \else {\tablecaptionfont {\tablenum
+font #1}\hskip 7pt\ignorespaces {#2}\par }\vskip \belowcaptionskip \fi  on inpu
+t line 1055.
+)
+\c@KVtest=\count197
+\sf@farskip=\skip58
+\sf@captopadj=\dimen180
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\c@subfigure=\count198
+\c@subfigure@save=\count199
+\c@lofdepth=\count266
+\c@subtable=\count267
+\c@subtable@save=\count268
+\c@lotdepth=\count269
+\sf@top=\skip61
+\sf@bottom=\skip62
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks29
+\verbatim@line=\toks30
+\verbatim@in@stream=\read2
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+Package cleveref Info: `subfig' support loaded on input line 3164.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+30.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+52.
+Package cleveref Info: no abbreviation of names on input line 7852.
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip63
+\bibsep=\skip64
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count270
+)
+\c@theorem=\count271
+\c@remark=\count272
+\c@notation=\count273
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen181
+\pgfutil@tempdimb=\dimen182
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box48
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks36
+))
+\pgf@x=\dimen183
+\pgf@y=\dimen184
+\pgf@xa=\dimen185
+\pgf@ya=\dimen186
+\pgf@xb=\dimen187
+\pgf@yb=\dimen188
+\pgf@xc=\dimen189
+\pgf@yc=\dimen190
+\pgf@xd=\dimen191
+\pgf@yd=\dimen192
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count278
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count279
+\pgfsyssoftpath@bigbuffer@items=\count280
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen193
+\pgfmath@count=\count281
+\pgfmath@box=\box49
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count282
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen194
+\pgf@picmaxx=\dimen195
+\pgf@picminy=\dimen196
+\pgf@picmaxy=\dimen197
+\pgf@pathminx=\dimen198
+\pgf@pathmaxx=\dimen199
+\pgf@pathminy=\dimen256
+\pgf@pathmaxy=\dimen257
+\pgf@xx=\dimen258
+\pgf@xy=\dimen259
+\pgf@yx=\dimen260
+\pgf@yy=\dimen261
+\pgf@zx=\dimen262
+\pgf@zy=\dimen263
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen264
+\pgf@path@lasty=\dimen265
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen266
+\pgf@shorten@start@additional=\dimen267
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box50
+\pgf@hbox=\box51
+\pgf@layerbox@main=\box52
+\pgf@picture@serial@count=\count283
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen268
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen269
+\pgf@pt@y=\dimen270
+\pgf@pt@temp=\dimen271
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen272
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen273
+\pgf@sys@shading@range@num=\count284
+\pgf@shadingcount=\count285
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box53
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box54
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen274
+\pgf@nodesepend=\dimen275
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen276
+\pgffor@skip=\dimen277
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count286
+\pgfplotmarksize=\dimen278
+)
+\tikz@lastx=\dimen279
+\tikz@lasty=\dimen280
+\tikz@lastxsaved=\dimen281
+\tikz@lastysaved=\dimen282
+\tikz@lastmovetox=\dimen283
+\tikz@lastmovetoy=\dimen284
+\tikzleveldistance=\dimen285
+\tikzsiblingdistance=\dimen286
+\tikz@figbox=\box55
+\tikz@figbox@bg=\box56
+\tikz@tempbox=\box57
+\tikz@tempbox@bg=\box58
+\tikztreelevel=\count287
+\tikznumberofchildren=\count288
+\tikznumberofcurrentchild=\count289
+\tikz@fig@count=\count290
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count291
+\pgfmatrixcurrentcolumn=\count292
+\pgf@matrix@numberofcolumns=\count293
+)
+\tikz@expandcount=\count294
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks45
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+Package caption Info: rotating package is loaded.
+)
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+mode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count297
+\l__pdf_internal_box=\box59
+) (Paper.aux
+
+LaTeX Warning: Label `fig:differentradius' multiply defined.
+
+
+LaTeX Warning: Label `fig:differentradius@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:vehiclemovement' multiply defined.
+
+
+LaTeX Warning: Label `fig:vehiclemovement@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:strainvertical' multiply defined.
+
+
+LaTeX Warning: Label `fig:strainvertical@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq12' multiply defined.
+
+
+LaTeX Warning: Label `eq12@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq12' multiply defined.
+
+
+LaTeX Warning: Label `eq12@cref' multiply defined.
+
+
+Package natbib Warning: Citation `Seku' multiply defined.
+
+
+Package natbib Warning: Citation `Seku' multiply defined.
+
+)
+\openout1 = `Paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count298
+\scratchdimen=\dimen287
+\scratchbox=\box60
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen288
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks47
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(94.75394pt, 408.0pt, 94.75394pt)
+* v-part:(T,H,B)=(78.01874pt, 650.0pt, 117.0281pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=408.0pt
+* \textheight=650.0pt
+* \oddsidemargin=22.48395pt
+* \evensidemargin=22.48395pt
+* \topmargin=-31.25125pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 55.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 55.
+
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 55.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 55.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
+(Font)              size <5> substituted on input line 55.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 55.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+
+
+(C:\Users\zamba\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+
+
+{C:/Users/zamba/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 78.
+
+[2]
+<formulation.png, id=20, 963.6pt x 542.025pt>
+File: formulation.png Graphic file (type png)
+<use formulation.png>
+Package pdftex.def Info: formulation.png  used on input line 90.
+(pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
+
+
+Package caption Warning: \label without proper reference on input line 119.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:vehiclemovement' on page 3 undefined on input lin
+e 96.
+
+<2.1.aWheeldisplacement.jpg, id=21, 963.6pt x 542.025pt>
+File: 2.1.aWheeldisplacement.jpg Graphic file (type jpg)
+<use 2.1.aWheeldisplacement.jpg>
+Package pdftex.def Info: 2.1.aWheeldisplacement.jpg  used on input line 105.
+(pdftex.def)             Requested size: 407.98808pt x 260.00363pt.
+<2.1.bKlnigelfrequency.jpg, id=22, 963.6pt x 542.025pt>
+File: 2.1.bKlnigelfrequency.jpg Graphic file (type jpg)
+<use 2.1.bKlnigelfrequency.jpg>
+Package pdftex.def Info: 2.1.bKlnigelfrequency.jpg  used on input line 107.
+(pdftex.def)             Requested size: 407.98808pt x 260.00363pt.
+[3 <./formulation.png>]
+<Frontview.jpg, id=31, 1166.3575pt x 637.38126pt>
+File: Frontview.jpg Graphic file (type jpg)
+<use Frontview.jpg>
+Package pdftex.def Info: Frontview.jpg  used on input line 117.
+(pdftex.def)             Requested size: 407.99988pt x 259.99559pt.
+<2.2.bTopview.jpg, id=32, 765.86125pt x 446.66875pt>
+File: 2.2.bTopview.jpg Graphic file (type jpg)
+<use 2.2.bTopview.jpg>
+Package pdftex.def Info: 2.2.bTopview.jpg  used on input line 119.
+(pdftex.def)             Requested size: 408.00803pt x 260.00179pt.
+<Verticalstress.jpg, id=33, 1165.35374pt x 426.59375pt>
+File: Verticalstress.jpg Graphic file (type jpg)
+<use Verticalstress.jpg>
+Package pdftex.def Info: Verticalstress.jpg  used on input line 126.
+(pdftex.def)             Requested size: 489.5875pt x 260.0135pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./2.1.aWheeldisplacement.jpg> <./2.1.bKlnigelfrequency.jpg> <./Frontview.jp
+g> <./2.2.bTopview.jpg>]
+<Horizontalstress.jpg, id=38, 986.68625pt x 427.5975pt>
+File: Horizontalstress.jpg Graphic file (type jpg)
+<use Horizontalstress.jpg>
+Package pdftex.def Info: Horizontalstress.jpg  used on input line 142.
+(pdftex.def)             Requested size: 448.80745pt x 227.4999pt.
+ [5 <./Verticalstress.jpg> <./Horizontalstress.jpg>]
+<Meshwheel.jpg, id=42, 465.74pt x 556.0775pt>
+File: Meshwheel.jpg Graphic file (type jpg)
+<use Meshwheel.jpg>
+Package pdftex.def Info: Meshwheel.jpg  used on input line 165.
+(pdftex.def)             Requested size: 465.73886pt x 556.07614pt.
+
+[6 <./Meshwheel.jpg>]
+<verticalforcevariation.jpg, id=47, 851.18pt x 361.35pt>
+File: verticalforcevariation.jpg Graphic file (type jpg)
+<use verticalforcevariation.jpg>
+Package pdftex.def Info: verticalforcevariation.jpg  used on input line 216.
+(pdftex.def)             Requested size: 612.03088pt x 325.00247pt.
+Package epstopdf Info: Source file: <verinner.eps>
+(epstopdf)                    date: 2020-10-03 08:36:45
+(epstopdf)                    size: 51222 bytes
+(epstopdf)             Output file: <verinner-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 08:37:38
+(epstopdf)                    size: 22223 bytes
+(epstopdf)             Command: <epstopdf --outfile=verinner-eps-converted-to.p
+df verinner.eps>
+(epstopdf)             \includegraphics on input line 223.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./verinner-eps-converted-to.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<verinner-eps-converted-to.pdf, id=48, 963.6pt x 453.695pt>
+File: verinner-eps-converted-to.pdf Graphic file (type pdf)
+<use verinner-eps-converted-to.pdf>
+Package pdftex.def Info: verinner-eps-converted-to.pdf  used on input line 223.
+
+(pdftex.def)             Requested size: 407.98808pt x 227.50461pt.
+Package epstopdf Info: Source file: <verouter4.eps>
+(epstopdf)                    date: 2020-10-03 08:27:03
+(epstopdf)                    size: 51792 bytes
+(epstopdf)             Output file: <verouter4-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 08:27:42
+(epstopdf)                    size: 21599 bytes
+(epstopdf)             Command: <epstopdf --outfile=verouter4-eps-converted-to.
+pdf verouter4.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./verouter4-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<verouter4-eps-converted-to.pdf, id=49, 963.6pt x 453.695pt>
+File: verouter4-eps-converted-to.pdf Graphic file (type pdf)
+<use verouter4-eps-converted-to.pdf>
+Package pdftex.def Info: verouter4-eps-converted-to.pdf  used on input line 225
+.
+(pdftex.def)             Requested size: 407.98808pt x 227.50461pt.
+[7 <./verticalforcevariation.jpg>]
+<horizontalforcevariation.jpg, id=54, 892.33376pt x 389.455pt>
+File: horizontalforcevariation.jpg Graphic file (type jpg)
+<use horizontalforcevariation.jpg>
+Package pdftex.def Info: horizontalforcevariation.jpg  used on input line 238.
+(pdftex.def)             Requested size: 612.00745pt x 325.01251pt.
+Package epstopdf Info: Source file: <latinn.eps>
+(epstopdf)                    date: 2020-10-03 09:46:37
+(epstopdf)                    size: 46360 bytes
+(epstopdf)             Output file: <latinn-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 09:47:16
+(epstopdf)                    size: 22380 bytes
+(epstopdf)             Command: <epstopdf --outfile=latinn-eps-converted-to.pdf
+ latinn.eps>
+(epstopdf)             \includegraphics on input line 246.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./latinn-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<latinn-eps-converted-to.pdf, id=55, 963.6pt x 487.8225pt>
+File: latinn-eps-converted-to.pdf Graphic file (type pdf)
+<use latinn-eps-converted-to.pdf>
+Package pdftex.def Info: latinn-eps-converted-to.pdf  used on input line 246.
+(pdftex.def)             Requested size: 407.98808pt x 227.50504pt.
+Package epstopdf Info: Source file: <latout.eps>
+(epstopdf)                    date: 2020-10-03 09:32:43
+(epstopdf)                    size: 45653 bytes
+(epstopdf)             Output file: <latout-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 09:33:43
+(epstopdf)                    size: 21547 bytes
+(epstopdf)             Command: <epstopdf --outfile=latout-eps-converted-to.pdf
+ latout.eps>
+(epstopdf)             \includegraphics on input line 248.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./latout-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<latout-eps-converted-to.pdf, id=56, 963.6pt x 453.695pt>
+File: latout-eps-converted-to.pdf Graphic file (type pdf)
+<use latout-eps-converted-to.pdf>
+Package pdftex.def Info: latout-eps-converted-to.pdf  used on input line 248.
+(pdftex.def)             Requested size: 407.98808pt x 227.50461pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Radiallocation.jpg, id=57, 764.8575pt x 464.73625pt>
+File: Radiallocation.jpg Graphic file (type jpg)
+<use Radiallocation.jpg>
+Package pdftex.def Info: Radiallocation.jpg  used on input line 255.
+(pdftex.def)             Requested size: 764.85562pt x 464.7351pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./verinner-eps-converted-to.pdf> <./verouter4-eps-converted-to.pdf> <./hori
+zontalforcevariation.jpg>]
+<Wheatstonearrangement.jpg, id=71, 496.85625pt x 499.8675pt>
+File: Wheatstonearrangement.jpg Graphic file (type jpg)
+<use Wheatstonearrangement.jpg>
+Package pdftex.def Info: Wheatstonearrangement.jpg  used on input line 273.
+(pdftex.def)             Requested size: 496.85503pt x 499.86627pt.
+<Wheatstonebridge.jpg, id=72, 372.39125pt x 298.11375pt>
+File: Wheatstonebridge.jpg Graphic file (type jpg)
+<use Wheatstonebridge.jpg>
+Package pdftex.def Info: Wheatstonebridge.jpg  used on input line 275.
+(pdftex.def)             Requested size: 372.39034pt x 298.11302pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./latinn-eps-converted-to.pdf> <./latout-eps-converted-to.pdf> <./Radialloc
+ation.jpg>]
+Package epstopdf Info: Source file: <4straingauge.eps>
+(epstopdf)                    date: 2020-10-03 10:20:32
+(epstopdf)                    size: 70261 bytes
+(epstopdf)             Output file: <4straingauge-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 10:24:00
+(epstopdf)                    size: 23446 bytes
+(epstopdf)             Command: <epstopdf --outfile=4straingauge-eps-converted-
+to.pdf 4straingauge.eps>
+(epstopdf)             \includegraphics on input line 292.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./4straingauge-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<4straingauge-eps-converted-to.pdf, id=86, 963.6pt x 457.71pt>
+File: 4straingauge-eps-converted-to.pdf Graphic file (type pdf)
+<use 4straingauge-eps-converted-to.pdf>
+Package pdftex.def Info: 4straingauge-eps-converted-to.pdf  used on input line 
+292.
+(pdftex.def)             Requested size: 963.59766pt x 457.7089pt.
+Package epstopdf Info: Source file: <4straingaugesWB.eps>
+(epstopdf)                    date: 2020-10-03 10:37:20
+(epstopdf)                    size: 19740 bytes
+(epstopdf)             Output file: <4straingaugesWB-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 10:42:17
+(epstopdf)                    size: 7763 bytes
+(epstopdf)             Command: <epstopdf --outfile=4straingaugesWB-eps-convert
+ed-to.pdf 4straingaugesWB.eps>
+(epstopdf)             \includegraphics on input line 294.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./4straingaugesWB-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<4straingaugesWB-eps-converted-to.pdf, id=87, 963.6pt x 457.71pt>
+File: 4straingaugesWB-eps-converted-to.pdf Graphic file (type pdf)
+<use 4straingaugesWB-eps-converted-to.pdf>
+Package pdftex.def Info: 4straingaugesWB-eps-converted-to.pdf  used on input li
+ne 294.
+(pdftex.def)             Requested size: 963.59766pt x 457.7089pt.
+
+Overfull \hbox (47.2446pt too wide) in paragraph at lines 292--295
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <8straingauge.eps>
+(epstopdf)                    date: 2020-10-03 10:30:41
+(epstopdf)                    size: 96904 bytes
+(epstopdf)             Output file: <8straingauge-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 10:31:25
+(epstopdf)                    size: 42497 bytes
+(epstopdf)             Command: <epstopdf --outfile=8straingauge-eps-converted-
+to.pdf 8straingauge.eps>
+(epstopdf)             \includegraphics on input line 297.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./8straingauge-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<8straingauge-eps-converted-to.pdf, id=88, 963.6pt x 457.71pt>
+File: 8straingauge-eps-converted-to.pdf Graphic file (type pdf)
+<use 8straingauge-eps-converted-to.pdf>
+Package pdftex.def Info: 8straingauge-eps-converted-to.pdf  used on input line 
+297.
+(pdftex.def)             Requested size: 963.59766pt x 457.7089pt.
+Package epstopdf Info: Source file: <8straingaugeWB.eps>
+(epstopdf)                    date: 2020-10-03 10:29:02
+(epstopdf)                    size: 20071 bytes
+(epstopdf)             Output file: <8straingaugeWB-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 10:31:27
+(epstopdf)                    size: 7764 bytes
+(epstopdf)             Command: <epstopdf --outfile=8straingaugeWB-eps-converte
+d-to.pdf 8straingaugeWB.eps>
+(epstopdf)             \includegraphics on input line 299.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./8straingaugeWB-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<8straingaugeWB-eps-converted-to.pdf, id=89, 963.6pt x 487.8225pt>
+File: 8straingaugeWB-eps-converted-to.pdf Graphic file (type pdf)
+<use 8straingaugeWB-eps-converted-to.pdf>
+Package pdftex.def Info: 8straingaugeWB-eps-converted-to.pdf  used on input lin
+e 299.
+(pdftex.def)             Requested size: 963.59766pt x 487.8213pt.
+
+Overfull \hbox (47.2446pt too wide) in paragraph at lines 297--300
+ [][][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./Wheatstonearrangement.jpg> <./Wheatstonebridge.jpg>] [11 <./4straingauge
+-eps-converted-to.pdf> <./4straingaugesWB-eps-converted-to.pdf> <./8straingauge
+-eps-converted-to.pdf> <./8straingaugeWB-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <verticalchange.eps>
+(epstopdf)                    date: 2020-10-03 11:34:03
+(epstopdf)                    size: 31889 bytes
+(epstopdf)             Output file: <verticalchange-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 11:34:52
+(epstopdf)                    size: 11893 bytes
+(epstopdf)             Command: <epstopdf --outfile=verticalchange-eps-converte
+d-to.pdf verticalchange.eps>
+(epstopdf)             \includegraphics on input line 344.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./verticalchange-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<verticalchange-eps-converted-to.pdf, id=116, 963.6pt x 453.695pt>
+File: verticalchange-eps-converted-to.pdf Graphic file (type pdf)
+<use verticalchange-eps-converted-to.pdf>
+Package pdftex.def Info: verticalchange-eps-converted-to.pdf  used on input lin
+e 344.
+(pdftex.def)             Requested size: 963.59766pt x 453.6939pt.
+Package epstopdf Info: Source file: <Lateralchange.eps>
+(epstopdf)                    date: 2020-10-03 11:25:23
+(epstopdf)                    size: 29831 bytes
+(epstopdf)             Output file: <Lateralchange-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 11:29:51
+(epstopdf)                    size: 11384 bytes
+(epstopdf)             Command: <epstopdf --outfile=Lateralchange-eps-converted
+-to.pdf Lateralchange.eps>
+(epstopdf)             \includegraphics on input line 346.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Lateralchange-eps-converted-to.pdf): PDF inclu
+sion: found PDF version <1.7>, but at most version <1.5> allowed
+<Lateralchange-eps-converted-to.pdf, id=117, 963.6pt x 453.695pt>
+File: Lateralchange-eps-converted-to.pdf Graphic file (type pdf)
+<use Lateralchange-eps-converted-to.pdf>
+Package pdftex.def Info: Lateralchange-eps-converted-to.pdf  used on input line
+ 346.
+(pdftex.def)             Requested size: 963.59766pt x 453.6939pt.
+
+Overfull \hbox (47.2446pt too wide) in paragraph at lines 344--347
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <contactpointchange.eps>
+(epstopdf)                    date: 2020-10-03 11:12:34
+(epstopdf)                    size: 29072 bytes
+(epstopdf)             Output file: <contactpointchange-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 11:16:45
+(epstopdf)                    size: 11197 bytes
+(epstopdf)             Command: <epstopdf --outfile=contactpointchange-eps-conv
+erted-to.pdf contactpointchange.eps>
+(epstopdf)             \includegraphics on input line 349.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./contactpointchange-eps-converted-to.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<contactpointchange-eps-converted-to.pdf, id=118, 963.6pt x 453.695pt>
+File: contactpointchange-eps-converted-to.pdf Graphic file (type pdf)
+<use contactpointchange-eps-converted-to.pdf>
+Package pdftex.def Info: contactpointchange-eps-converted-to.pdf  used on input
+ line 349.
+(pdftex.def)             Requested size: 963.59766pt x 453.6939pt.
+Package epstopdf Info: Source file: <ThetaA0atA.eps>
+(epstopdf)                    date: 2020-10-03 10:58:36
+(epstopdf)                    size: 28775 bytes
+(epstopdf)             Output file: <ThetaA0atA-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 11:05:23
+(epstopdf)                    size: 13074 bytes
+(epstopdf)             Command: <epstopdf --outfile=ThetaA0atA-eps-converted-to
+.pdf ThetaA0atA.eps>
+(epstopdf)             \includegraphics on input line 357.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./ThetaA0atA-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<ThetaA0atA-eps-converted-to.pdf, id=119, 963.6pt x 453.695pt>
+File: ThetaA0atA-eps-converted-to.pdf Graphic file (type pdf)
+<use ThetaA0atA-eps-converted-to.pdf>
+Package pdftex.def Info: ThetaA0atA-eps-converted-to.pdf  used on input line 35
+7.
+(pdftex.def)             Requested size: 963.59766pt x 453.6939pt.
+Package epstopdf Info: Source file: <ThetaB0atB.eps>
+(epstopdf)                    date: 2020-10-03 11:00:37
+(epstopdf)                    size: 28712 bytes
+(epstopdf)             Output file: <ThetaB0atB-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 11:05:25
+(epstopdf)                    size: 13056 bytes
+(epstopdf)             Command: <epstopdf --outfile=ThetaB0atB-eps-converted-to
+.pdf ThetaB0atB.eps>
+(epstopdf)             \includegraphics on input line 359.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./ThetaB0atB-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<ThetaB0atB-eps-converted-to.pdf, id=120, 963.6pt x 453.695pt>
+File: ThetaB0atB-eps-converted-to.pdf Graphic file (type pdf)
+<use ThetaB0atB-eps-converted-to.pdf>
+Package pdftex.def Info: ThetaB0atB-eps-converted-to.pdf  used on input line 35
+9.
+(pdftex.def)             Requested size: 963.59766pt x 453.6939pt.
+
+Overfull \hbox (47.2446pt too wide) in paragraph at lines 357--360
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <ThetaC0atC.eps>
+(epstopdf)                    date: 2020-10-03 11:07:56
+(epstopdf)                    size: 28776 bytes
+(epstopdf)             Output file: <ThetaC0atC-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-03 11:08:29
+(epstopdf)                    size: 12917 bytes
+(epstopdf)             Command: <epstopdf --outfile=ThetaC0atC-eps-converted-to
+.pdf ThetaC0atC.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./ThetaC0atC-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<ThetaC0atC-eps-converted-to.pdf, id=121, 963.6pt x 453.695pt>
+File: ThetaC0atC-eps-converted-to.pdf Graphic file (type pdf)
+<use ThetaC0atC-eps-converted-to.pdf>
+Package pdftex.def Info: ThetaC0atC-eps-converted-to.pdf  used on input line 36
+2.
+(pdftex.def)             Requested size: 963.59766pt x 453.6939pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.369 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.373 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.375  = \begin{bmatrix}
+                        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.379 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Misplaced \crcr.
+\endarray ->\crcr 
+                  \egroup \egroup 
+l.380  \end{bmatrix}
+                    
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten \endgroup.
+\endarray ->\crcr \egroup 
+                          \egroup 
+l.380  \end{bmatrix}
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+\endarray ->\crcr \egroup \egroup 
+                                  
+l.380  \end{bmatrix}
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.380  \end{bmatrix}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra \right.
+\endbmatrix ->\endmatrix \right ]
+                                 
+l.380  \end{bmatrix}
+                    
+I'm ignoring a \right that had no matching \left.
+
+
+! LaTeX Error: \begin{equation} on input line 367 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380  \end{bmatrix}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.380  \end{bmatrix}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.381  = \begin{bmatrix}
+                        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.385 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Misplaced \crcr.
+\endarray ->\crcr 
+                  \egroup \egroup 
+l.386  \end{bmatrix}
+                    
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Too many }'s.
+\endarray ->\crcr \egroup 
+                          \egroup 
+l.386  \end{bmatrix}
+                    
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+\endarray ->\crcr \egroup \egroup 
+                                  
+l.386  \end{bmatrix}
+                    
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.386  \end{bmatrix}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra \right.
+\endbmatrix ->\endmatrix \right ]
+                                 
+l.386  \end{bmatrix}
+                    
+I'm ignoring a \right that had no matching \left.
+
+
+! LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386  \end{bmatrix}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.386  \end{bmatrix}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.386  \end{bmatrix}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+[12 <./verticalchange-eps-converted-to.pdf> <./Lateralchange-eps-converted-to.p
+df> <./contactpointchange-eps-converted-to.pdf>]
+
+! LaTeX Error: \begin{document} ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.389 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.389 \end{equation}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.394 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.398 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.401 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.405 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.407 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.411 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.418 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.422 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.425  10^
+          {-9}\begin{bmatrix}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.438 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.438 \end{equation}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.438 \end{equation}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.442 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.446 \end{bmatrix}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.449  10^
+          {-9}\begin{bmatrix}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.462 \end{equation}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.462 \end{equation}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[13 <./ThetaA0atA-eps-converted-to.pdf> <./ThetaB0atB-eps-converted-to.pdf> <./
+ThetaC0atC-eps-converted-to.pdf>] [14]
+
+Package natbib Warning: There were multiply defined citations.
+
+[15] (Paper.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17869 strings out of 480790
+ 348155 string characters out of 2897302
+ 554347 words of memory out of 3000000
+ 33528 multiletter control sequences out of 15000+200000
+ 549373 words of font info for 65 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,11n,60p,1902b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\zamba\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
+1095.pk> <C:\Users\zamba\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbi1095.pk> <C:\Users\zamba\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1095.pk> <C:\Users\zamba\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm0900.pk> <C:\Users\zamba\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\zamba\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\zamba\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\zamba\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\zamba\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\zamba\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Users/zamba/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/User
+s/zamba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Users/zamba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb><C:/Users/zamba/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Users/zamba/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/zamba/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><C:/Users/zamba/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/zamba/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/zamba/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Paper.pdf (15 pages, 1290157 bytes).
+PDF statistics:
+ 626 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+
